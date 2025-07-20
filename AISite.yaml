@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,cdn.usefathom.com
 
   # > Cloudflare AI Gateway
   - DOMAIN,gateway.ai.cloudflare.com
@@ -87,3 +88,7 @@ payload:
   # > Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,sora-cdn.oaistatic.com
+
+  # > Grok
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
