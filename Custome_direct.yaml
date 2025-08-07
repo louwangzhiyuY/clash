@@ -1,0 +1,4 @@
+payload:
+  # > rust desktop
+  - DOMAIN-SUFFIX,wayla.top
+  - DOMAIN,wayla.top
